@@ -64,6 +64,7 @@ body {
   justify-content: space-between;
   height: 2rem;
   width: 3rem;
+  cursor: pointer;
 }
 
 .toggle-button .bar {
